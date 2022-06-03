@@ -17,7 +17,7 @@ install.packages(usethis) #instala el paquete usethis
 library(usethis)
 usethis::edit_git_config()
 ```
-
+cambio44
 
 ## Crear un token de acceso personal (PAT) en GitHub
 
