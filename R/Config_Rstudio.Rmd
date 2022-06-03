@@ -6,7 +6,7 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-cambio
+cambio2
 ## Configuración
 
 En la consola de RStudio:
